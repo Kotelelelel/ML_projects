@@ -12,3 +12,8 @@ Welcome! This repository serves as a collection of my personal machine learning 
   * **Goal:** Prediction of customer willingness to buy EVs.
   * **Tech:** Python, Scikit-Learn, Pandas, Matplotlib, LightGBM.
   * **Score:** ROC-AUC score of 0.94189.
+
+- **[Credit Card Fraud Detection](https://github.com/Kotelelelel/ML_projects/tree/main/Predicting_Credit_Card_Fraud)**
+  * **Goal:** Predicting fraud in credit card transactions.
+  * **Tech:** Python, Scikit-Learn, LightGBM, XGBoost, CatBoost, Matplotlib.
+  * **Score:** ROC-AUC score of 0.94657.
